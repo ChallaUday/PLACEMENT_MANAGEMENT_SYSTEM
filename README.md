@@ -36,9 +36,6 @@ The **Placement Management System** is a web application built with **Spring Boo
 
 ---
 
-## 🔧 Backend Setup
+by CHALLA UDAY KIRAN
 
-1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/naveenkumar-14/placement-management-system.git

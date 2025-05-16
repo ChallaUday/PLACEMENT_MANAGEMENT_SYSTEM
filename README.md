@@ -5,7 +5,7 @@ The **Placement Management System** is a web application built with Spring Boot 
 
 - **Login Page**: Allows admins to log in using their credentials.
 ### Login Page
-![Login Page](Sample/1.jpg)
+![Alt text for the image](Sample/1.jpg)
 - **CRUD Operations**:
 - ### CRUD Operations
 ![CRUD Operations](Sample/2.jpg)

@@ -35,7 +35,7 @@ The **Placement Management System** is a web application built with Spring Boot 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/naveenkumar-14/placement-management-system.git
+   git clone https://github.com/Udaychalla/placement-management-system.git
    ```
 
 2. **Navigate to the Project Directory**:

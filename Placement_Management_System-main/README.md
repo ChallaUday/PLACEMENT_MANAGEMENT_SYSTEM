@@ -92,4 +92,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## Contact
 
-For any questions or issues, please contact [K Naveen Kumar](mailto:knaveenkumar0103@gmail.com).
+For any questions or issues, please contact [CHALLA UDAY KIRAN](mailto:udaychalla03@gmail.com).
